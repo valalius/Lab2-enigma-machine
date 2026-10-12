@@ -1,1 +1,1 @@
-# Lab2-enigma-machine
+Захист даних Лабораторна робота 2 Encryption/Decryption of Enigma Machine
